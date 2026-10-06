@@ -1,9 +1,6 @@
 --  Sample Product database
 -- Current relational schema by Jamiu Gbadamosi
---  Original data created by Xoxho Xpress
 
--- linkedin; www.linkedin.com/in/jamiu-gbadamosi-ba342326a
--- portfolio; https://jamiugbadamosi.netlify.app/
 -- Github; https://github.com/SageAnalyst/MIT-8103-Advanced-Database-Systems---CA-September-Cohort-2026
 
 SELECT 'CREATING DATABASE STRUCTURE' as 'INFO';
