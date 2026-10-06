@@ -4,7 +4,7 @@
 
 -- linkedin; www.linkedin.com/in/jamiu-gbadamosi-ba342326a
 -- portfolio; https://jamiugbadamosi.netlify.app/
--- Github; https://github.com/SageAnalyst/MySQL-Projects
+-- Github; https://github.com/SageAnalyst/MIT-8103-Advanced-Database-Systems---CA-September-Cohort-2026
 
 SELECT 'CREATING DATABASE STRUCTURE' as 'INFO';
 
@@ -64,7 +64,6 @@ CREATE TABLE IF NOT EXISTS Outreach
 # Generate Reports: Calculate the total quantity of products based on conditions to get suitable results for reports
 -- SELECT column_n FROM table_name GROUP BY coulmn_n ORDER BY column_n DESC LIMIT value;
 
-#Please note queries are simplified and may require adjustments to match your objective, Goodluck!
 
   
 
